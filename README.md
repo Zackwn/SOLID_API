@@ -4,8 +4,11 @@
 
 <img src='.github/code.png'>
 
-<br><br>
+<br>
 
 * [Insomnia Testing](api_test.json)
 
-<img src='.github/insomnia.png'>
+<p>
+   <img src='.github/insomnia.png'>
+</p>
+
