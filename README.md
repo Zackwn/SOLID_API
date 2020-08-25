@@ -1,6 +1,6 @@
 # SOLID - API
 
-* SOLID - Dependency Inversion
+* [SOLID - Dependency Inversion](src/useCases/CreateUser/index.ts)
 
 <img src='.github/code.png'>
 
